@@ -18,3 +18,5 @@ Roxygen: list(markdown = TRUE)
 RoxygenNote: 7.2.0
 Depends: R (>= 3.1.0)
 Imports: stats
+URL: https://github.com/MicRic77/pconr
+BugReports: https://github.com/MicRic77/pconr/issues
